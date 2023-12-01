@@ -1,0 +1,18 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q12
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,I think that I would enjoy using this app frequently.,I found the app unnecessarily complex.,I thought the app was easy to use.,"I think that I would need the
+ support of a technical person to
+ be able to use the app.",I found the various features of the app were well integrated.,"I thought there was too much
+ inconsistency in the app.","I would imagine that most people
+ would learn to use the app very quickly.","I found the app very
+ cumbersome to use.",I felt very confident using the app.,"I would need to learn a lot of
+ things before I could get going
+ with the app.",Anything specific that you'd like us to know? Please share your thoughts here!
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1""}","{""ImportId"":""QID2""}","{""ImportId"":""QID3""}","{""ImportId"":""QID4""}","{""ImportId"":""QID5""}","{""ImportId"":""QID6""}","{""ImportId"":""QID7""}","{""ImportId"":""QID8""}","{""ImportId"":""QID9""}","{""ImportId"":""QID10""}","{""ImportId"":""QID13_TEXT""}"
+2023-11-23 20:36:57,2023-11-23 20:37:36,0,157.132.93.77,100,38,1,2023-11-23 20:37:36,R_26h7RMOlmPjccQo,,,,,37.751,-97.822,anonymous,EN,4,2,4,1,4,2,4,2,5,1,
+2023-11-23 20:37:54,2023-11-23 20:40:36,0,157.132.93.77,100,161,1,2023-11-23 20:40:36,R_333A3IP7NUvNfQ1,,,,,37.751,-97.822,anonymous,EN,1,2,4,1,4,2,5,2,4,2,
+2023-11-23 20:40:58,2023-11-23 20:42:37,0,157.132.93.77,100,98,1,2023-11-23 20:42:37,R_25MK5k9RPAuiGUp,,,,,37.751,-97.822,anonymous,EN,3,2,4,1,4,1,4,3,4,1,
+2023-11-23 20:42:48,2023-11-23 20:45:42,0,157.132.93.77,100,174,1,2023-11-23 20:45:43,R_1JOW9zQOv8cnn7n,,,,,37.751,-97.822,anonymous,EN,4,2,5,1,3,2,5,2,4,1,
+2023-11-28 01:08:25,2023-11-28 01:11:19,0,157.132.93.143,100,174,1,2023-11-28 01:11:20,R_1N92nbiz9YzLQv2,,,,,37.751,-97.822,anonymous,EN,5,2,5,4,4,2,5,1,5,2,
+2023-11-29 14:24:52,2023-11-29 14:31:25,0,104.28.124.217,100,393,1,2023-11-29 14:31:26,R_usHLu25BJPaRLTr,,,,,43.6165,-116.2001,anonymous,EN,1,1,5,1,5,2,5,1,4,1,
+2023-11-30 06:46:59,2023-11-30 06:47:37,0,174.45.80.148,100,37,1,2023-11-30 06:47:38,R_43pg5V7CU85BxfP,,,,,45.6714,-111.0436,anonymous,EN,5,1,5,1,5,1,5,1,4,1,
+2023-11-30 16:02:43,2023-11-30 16:03:47,0,153.90.19.187,100,64,1,2023-11-30 16:03:48,R_27Uzwd7nTgFlIT9,,,,,45.6714,-111.0436,anonymous,EN,5,1,5,1,5,1,5,1,5,1,
